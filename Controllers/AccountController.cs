@@ -17,5 +17,9 @@ namespace Gharelu_Utpadan.Controllers
         {
             return View();
         }
+        public ActionResult Login()
+        {
+            return View();
+        }
     }
 }
